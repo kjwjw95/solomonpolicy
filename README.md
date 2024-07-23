@@ -1,0 +1,2 @@
+# solomonpolicy
+privacy-policy
